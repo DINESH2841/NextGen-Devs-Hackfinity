@@ -1,5 +1,5 @@
 # NextGen-Devs-Hackfinity
-team name nextgen Devs
+team name Nextgen Devs
 making required changes in frontend and backend 
 going to review
 S.Dinesh (Team Leader)
