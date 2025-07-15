@@ -1,6 +1,6 @@
 # NextGen-Devs-Hackfinity
 team name nextgen devs
-started working on frontend and backend 
+working on frontend and backend 
 
 S.Dinesh (team leader)
 B.Kishore
