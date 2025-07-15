@@ -1,6 +1,7 @@
 # NextGen-Devs-Hackfinity
 team name nextgen devs
-S.Dinesh
+
+S.Dinesh team leader
 B.Kishore
 C.V.Karthik
 B.Sridhar
